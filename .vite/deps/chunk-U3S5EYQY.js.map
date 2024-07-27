@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../node_modules/@mui/material/node_modules/@mui/utils/esm/refType/refType.js", "../../node_modules/@mui/material/node_modules/@mui/utils/esm/refType/index.js"],
+  "sourcesContent": ["import PropTypes from 'prop-types';\nconst refType = PropTypes.oneOfType([PropTypes.func, PropTypes.object]);\nexport default refType;", "export { default } from './refType';"],
+  "mappings": ";;;;;;;;;AAAA,uBACM,SACC;AAFP;AAAA;AAAA,wBAAsB;AACtB,IAAM,UAAU,kBAAAA,QAAU,UAAU,CAAC,kBAAAA,QAAU,MAAM,kBAAAA,QAAU,MAAM,CAAC;AACtE,IAAO,kBAAQ;AAAA;AAAA;;;ACFf,IAAAC,gBAAA;AAAA;AAAA;AAAA;AAAA;",
+  "names": ["PropTypes", "init_refType"]
+}

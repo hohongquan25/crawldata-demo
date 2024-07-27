@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../node_modules/@mui/material/node_modules/@mui/utils/esm/useTimeout/index.js"],
+  "sourcesContent": ["export { default } from './useTimeout';\nexport { Timeout } from './useTimeout';"],
+  "mappings": ";;;;;;;;AAAA,IAAAA,mBAAA;AAAA;AAAA;AACA;AAAA;AAAA;",
+  "names": ["init_useTimeout"]
+}

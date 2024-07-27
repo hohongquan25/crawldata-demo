@@ -1,0 +1,165 @@
+{
+  "home": {
+    "title": "Home"
+  },
+
+  "table": {
+    "selected": "selected",
+    "delete": "Delete",
+    "filter": "Filter list",
+    "densePadding": "Dense padding",
+    "confirmDelete": "Are you sure you want to delete {{count}} item?",
+    "confirmDeleteSingle": "Are you sure you want to delete {{name}}?",
+    "confirmDeleteMultiple": "Are you sure you want to delete {{count}} items?",
+    "title": "Confirm deletion",
+    "content": "Are you sure you want to delete?",
+    "disagree": "Disagree",
+    "agree": "Agree",
+    "rowsPerPage": "Rows per page"
+  },
+
+  "menuAvatar": {
+    "profile": {
+      "title": "Profile",
+      "editProfile": "Edit Profile",
+      "companies": "Companies",
+      "socialProfile": "Social Profile",
+      "billing": "Billing",
+      "logout": "Logout"
+    },
+    "setting": {
+      "title": "Setting",
+      "support": "Support",
+      "accountSettings": "Account Settings",
+      "privacyCenter": "Privacy Center",
+      "feedback": "Feedback",
+      "language": "Language"
+    }
+  },
+
+  "sidebar": {
+    "management": {
+      "title": "Management",
+      "children": {
+        "dashboard": "Dashboard"
+      }
+    },
+    "orders": {
+      "title": "Orders",
+      "children": {
+        "importOrders": "Import orders",
+        "pushOrders": "Push orders",
+        "pushOrdersHistory": "Push orders history"
+      }
+    }
+  },
+
+  "importOrders": {
+    "title": "Import orders",
+    "tableTitle": "Order list"
+  },
+  "pushOrders": {
+    "title": "Push orders",
+    "tableTitle": "Order list"
+  },
+  "auth": {
+    "forgotPassword": {
+      "title": "Forgot password"
+    },
+    "loginForm": {
+      "title": "Login",
+      "submitTitle": "Login",
+      "email": "Email address",
+      "emailPlaceholder": "Enter your email address",
+      "password": "Password",
+      "passwordPlaceholder": "Enter your password",
+      "keepMeSignIn": "Keep me sign in",
+      "forgotPassword": "Forgot password?",
+      "loginWith": "Login with",
+      "alreadyAccount": "Already have an account?",
+      "noAccount": "Don't have an account?"
+    },
+    "registerForm": {
+      "title": "Register",
+      "fullName": "Full name",
+      "fullNamePlaceholder": "Enter your full name",
+      "phone": "Phone",
+      "phonePlaceholder": "Enter your Phone",
+      "email": "Email address",
+      "emailPlaceholder": "Enter your email address",
+      "password": "Password",
+      "passwordPlaceholder": "Enter your password",
+      "confirmPassword": "Confirm password",
+      "confirmPasswordPlaceholder": "Enter confirm password",
+      "alreadyAccount": "Already have an account?",
+      "confirmTitle": "By Signing up, you agree to our",
+      "otp": "OTP",
+      "resendOTP": "Resend OTP",
+      "createAccount": "Create account",
+      "termOfService": "Term of service",
+      "strengthPassword": {
+        "poor": "Poor",
+        "weak": "Weak",
+        "normal": "Normal",
+        "good": "Good",
+        "strong": "Strong"
+      }
+    },
+    "changePasswordForm": {
+      "title": "Change password",
+      "email": "Email address",
+      "currentPassword": "Current password",
+      "currentPasswordPlaceholder": "Enter your current password",
+      "newPassword": "New password",
+      "newPasswordPlaceholder": "Enter your new password",
+      "confirmNewPassword": "Confirm new password",
+      "confirmNewPasswordPlaceholder": "Enter confirm new password",
+      "createAccount": "Create account",
+      "termOfService": "Term of service",
+      "strengthPassword": {
+        "poor": "Poor",
+        "weak": "Weak",
+        "normal": "Normal",
+        "good": "Good",
+        "strong": "Strong"
+      }
+    },
+    "policy": {
+      "privacyPolicy": "This site is protected by",
+      "termsOfConditions": "Terms and Conditions",
+      "privacyNotice": "CA Privacy Notice"
+    }
+  },
+
+  "validation": {
+    "authForm": {
+      "emailRequired": "Email is required",
+      "emailValid": "Must be a valid email",
+      "passwordRequired": "Password is required",
+      "confirmPasswordRequired": "Confirm password is required",
+      "fullNameRequired": "Full name is required",
+      "phoneRequired": "Phone is required",
+      "phoneRegex": "Invalid phone number",
+      "phoneRegexNum": "Phone numbers include only numeric characters",
+      "code": "Code is required"
+    }
+  },
+  "listCompany": {
+    "workingSpace": "Working Space",
+    "information": {
+      "createAt": "Date Created",
+      "member": "Member"
+    },
+    "addCompany": "Add Company",
+    "formAddCompany" : 
+    {
+      "title": "Add new company",
+      "titleP": "Fill in the information of the company.",
+      "name": "Name company",
+      "description": "Description company",
+      "logo": "Logo company",
+      "image": "Upload a image"
+    }
+  },
+  "search": "Search"
+}

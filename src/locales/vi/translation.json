@@ -1,0 +1,146 @@
+{
+  "home": {
+    "title": "Trang chủ"
+  },
+
+  "table": {
+    "selected": "đã chọn",
+    "delete": "Xóa",
+    "filter": "Lọc danh sách",
+    "densePadding": "Đệm dày",
+    "confirmDelete": "Bạn có chắc chắn muốn xóa {{count}} mục?",
+    "confirmDeleteSingle": "Bạn có chắc chắn muốn xóa {{name}}?",
+    "confirmDeleteMultiple": "Bạn có chắc chắn muốn xóa {{count}} mục?",
+    "title": "Xác nhận xóa",
+    "content": "Bạn có chắc chắn muốn xóa không?",
+    "disagree": "Không đồng ý",
+    "agree": "Đồng ý",
+    "rowsPerPage": "Số hàng mỗi trang"
+  },
+
+  "menuAvatar": {
+    "profile": {
+      "title": "Hồ sơ",
+      "editProfile": "Chỉnh sửa Hồ sơ",
+      "companies": "Danh sách công ty",
+      "socialProfile": "Hồ sơ Xã hội",
+      "billing": "Hóa đơn",
+      "logout": "Đăng xuất"
+    },
+
+    "setting": {
+      "title": "Cài đặt",
+      "support": "Hỗ trợ",
+      "accountSettings": "Cài đặt Tài khoản",
+      "privacyCenter": "Trung tâm Quyền riêng tư",
+      "feedback": "Phản hồi",
+      "language": "Ngôn ngữ"
+    }
+  },
+
+  "sidebar": {
+    "management": {
+      "title": "Quản lý",
+      "children": {
+        "dashboard": "Bảng điều khiển"
+      }
+    },
+    "orders": {
+      "title": "Đơn hàng",
+      "children": {
+        "importOrders": "Nhập đơn hàng",
+        "pushOrders": "Đẩy đơn hàng",
+        "pushOrdersHistory": "Lịch sử đẩy đơn hàng"
+      }
+    }
+  },
+
+  "importOrders": {
+    "title": "Nhập đơn hàng",
+    "tableTitle": "Danh sách đơn hàng"
+  },
+  "pushOrders": {
+    "title": "Đẩy đơn hàng",
+    "tableTitle": "Danh sách đơn hàng"
+  },
+  "auth": {
+    "forgotPassword": {
+      "title": "Quên mật khẩu"
+    },
+    "loginForm": {
+      "title": "Đăng nhập",
+      "submitTitle": "Đăng nhập",
+      "email": "Địa chỉ email",
+      "emailPlaceholder": "Nhập địa chỉ email của bạn",
+      "password": "Mật khẩu",
+      "passwordPlaceholder": "Nhập mật khẩu của bạn",
+      "keepMeSignIn": "Giữ tôi đăng nhập",
+      "forgotPassword": "Quên mật khẩu?",
+      "loginWith": "Đăng nhập với",
+      "alreadyAccount": "Đã có tài khoản?",
+      "noAccount": "Chưa có tài khoản?"
+    },
+    "registerForm": {
+      "title": "Đăng ký",
+      "fullName": "Họ và tên",
+      "fullNamePlaceholder": "Nhập họ và tên của bạn",
+      "phone": "Số điện thoại",
+      "phonePlaceholder": "Nhập số điện thoại của bạn",
+      "email": "Địa chỉ email",
+      "emailPlaceholder": "Nhập địa chỉ email của bạn",
+      "password": "Mật khẩu",
+      "passwordPlaceholder": "Nhập mật khẩu của bạn",
+      "confirmPassword": "Xác nhận mật khẩu",
+      "confirmPasswordPlaceholder": "Nhập lại mật khẩu của bạn",
+      "alreadyAccount": "Đã có tài khoản?",
+      "confirmTitle": "Bằng cách đăng ký, bạn đồng ý với",
+      "otp": "Mã OTP",
+      "resendOTP": "Gửi lại mã OTP",
+      "createAccount": "Tạo tài khoản",
+      "termOfService": "Điều khoản dịch vụ",
+      "strengthPassword": {
+        "poor": "Yếu",
+        "weak": "Kém",
+        "normal": "Bình thường",
+        "good": "Tốt",
+        "strong": "Mạnh"
+      }
+    },
+    "policy": {
+      "privacyPolicy": "Trang web này được bảo vệ bởi",
+      "termsOfConditions": "Điều khoản và Điều kiện",
+      "privacyNotice": "Thông báo Quyền riêng tư CA"
+    }
+  },
+  "validation": {
+    "authForm": {
+      "emailRequired": "Email là bắt buộc",
+      "emailValid": "Phải là một email hợp lệ",
+      "passwordRequired": "Mật khẩu là bắt buộc",
+      "confirmPasswordRequired": "Xác nhận mật khẩu là bắt buộc",
+      "fullNameRequired": "Họ và tên là bắt buộc",
+      "phoneRequired": "Số điện thoại là bắt buộc",
+      "phoneRegex": "Số điện thoại không hợp lệ",
+      "phoneRegexNum": "Số điện thoại chỉ bao gồm các ký tự số",
+      "code": "Mã xác thực là bắt buộc"
+    }
+  },
+  "listCompany": {
+    "workingSpace": "Không gian làm việc",
+    "information": {
+      "createAt": "Ngày tạo",
+      "member": "Thành viên"
+    },
+    "addCompany": "Thêm công ty",
+    "formAddCompany" : 
+    {
+      "title": "Thêm công ty mới",
+      "titleP": "Điền đẩy đủ thông tin công ty vào phía dưới",
+      "name": "Tên công ty",
+      "description": "Mô tả công ty",
+      "logo": "Ảnh đại diện công ty",
+      "image": "Tải ảnh lên"
+    }
+  },
+  "search": "Tìm kiếm"
+}
