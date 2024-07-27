@@ -22,14 +22,30 @@ export default defineConfig({
       {
         find: /^src(.+)/,
         replacement: path.join(process.cwd(), 'src/$1')
+      },
+      {
+        '@': '/src'
       }
-    ]
+    ],
+    extensions: ['.js', '.jsx']
+  },
+  build: {
+    rollupOptions: {
+      output: {
+        entryFileNames: '[name].js',
+        chunkFileNames: '[name].js',
+        assetFileNames: '[name].[ext]'
+      }
+    }
   },
   server: {
     // this ensures that the browser opens upon server start
     open: true,
     // this sets a default port to 3000
-    port: 3000
+    port: 3000,
+    mimeTypes: {
+      'application/javascript': ['js', 'jsx']
+    }
   },
   preview: {
     // this ensures that the browser opens upon preview start
